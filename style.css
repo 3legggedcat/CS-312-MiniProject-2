@@ -1,0 +1,59 @@
+/* General body styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+/* Heading style*/
+h1 {
+    color: #333;
+}
+
+/* Styling for the form */
+form {
+    margin-bottom: 20px;
+}
+
+/* Input field styling */
+input {
+    padding: 10px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+/* Button styling */
+button {
+    padding: 10px 15px;
+    background-color: #28a745;
+    border: none;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+/* Button hover effect */
+button:hover {
+    background-color: #218838;
+}
+
+/* div styling */
+div {
+    margin-top: 20px;
+    text-align: center;
+}
+
+/* h2 inside div */
+div h2 {
+    margin-bottom: 10px;
+}
+
+
+
